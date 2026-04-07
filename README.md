@@ -22,7 +22,7 @@ In order to avoid such situations, we'll apply our Python skills to analyze Holo
 
 ## Completing the exercise
 
-- **Exercise 8 is due on March 29, 2025**.
+- **Exercise 8 is due on April 14, 2026**.
 - **Remember to save  your changes locally, and upload to GitHub after each major change**!
 
 ## Where to find help
